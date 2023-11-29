@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/udaydinesh2" target="blank"><img src="https://img.shields.io/twitter/follow/udaydinesh2?logo=twitter&style=for-the-badge" alt="udaydinesh2" /></a> </p>
 
-- 🔭 I’m currently working on **EDA Project**
+- 🔭 I’m currently working on **Object Detection**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Computer Vision and Image Segmentation**
 
-- 📫 How to reach me **artificalintelligence2003@gmail.com**
+- 📫 How to reach me **udaydinesh2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
